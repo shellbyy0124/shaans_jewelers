@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(
+    to left,
+    pink,white,pink
+  );
+}
+
+.App-logo {
+  height: 8vmin;
+  pointer-events: none;
+  width: 70%;
+}
